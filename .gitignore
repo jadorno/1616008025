@@ -24,4 +24,7 @@ yarn-debug.log*
 yarn-error.log*
 
 scripts
-config
+react/build
+react/.eslintcache
+config/nginx.conf.bk
+config/nginx.podman.prod.conf
